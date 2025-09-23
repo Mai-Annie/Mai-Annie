@@ -1,6 +1,6 @@
 ## Hi there 
-##LeetCode Stats ✨
-https://leetcard.jacoblin.cool/Annielabrocoli?theme=forest&font=Crushed
+![LeetCode Stats] ✨
+(https://leetcard.jacoblin.cool/Annielabrocoli?theme=forest&font=Crushed)
 
 
 <!--
