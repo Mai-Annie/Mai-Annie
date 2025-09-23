@@ -13,7 +13,7 @@
 name: Annie Huynh
 pronouns: she/her
 location: Montreal, Qc
-currently_learning: Always something new! 📚
+currently_learning: Clojure & MIPS assembly! 📚
 fun_fact: I love coding as much as I love doing my nails! 
 hobbies: 
   - Coding 💻
@@ -21,7 +21,7 @@ hobbies:
   - Creating beautiful things ✨
 ```
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VmbTU5NXBjaDV1MHUwbXhnajU4dXZueDg5Z3hkYXhkOXhycHVyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width="400" alt="Coding Girl"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VmbTU5NXBjaDV1MHUwbXhnajU4dXZueDg5Z3hkYXhkOXhycHVyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width="300" alt="Confused Dog"/>
 </div>
 
 ## 💫 Skills & Technologies
