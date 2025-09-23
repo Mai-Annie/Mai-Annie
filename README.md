@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2hxMDNneGRnMmU0NjN5MzE2aXdwZ2sxbW81cjYxNmg2eDJodmxweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xhAO0y3RbT7k3xb7ZZ/giphy.gif" width="30" alt="Bunny" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2hxMDNneGRnMmU0NjN5MzE2aXdwZ2sxbW81cjYxNmg2eDJodmxweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xhAO0y3RbT7k3xb7ZZ/giphy.gif" width="50" alt="Bunny" />
 </div>
 
 ## About Me 💕
