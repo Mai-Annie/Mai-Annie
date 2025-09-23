@@ -66,19 +66,11 @@ hobbies:
 ## LeetCode Stats ✨
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Annielabrocoli?theme=forest&font=Crushed)
 
-## 🌸 Current Projects
-
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[What you're learning]**
-- 👯 I'm looking to collaborate on **[What you want to collaborate on]**
-- 💬 Ask me about **[Your expertise areas]**
-- ⚡ Fun fact: **[A fun fact about you]**
-
 ## 💖 Follow Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/annie-huynh-60805b202))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/annie-huynh-60805b202])
 [![Instagram](https://img.shields.io/badge/Instagram-FFB6C1?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mai.anniee/)
 
 </div>
