@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Welcome+to+my+coding+world!+%F0%9F%92%96;Let's+build+something+magical!+%E2%9C%A8;Coding+with+love+and+creativity+%F0%9F%8C%B8" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&color=ff69b4&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-</p>
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2hxMDNneGRnMmU0NjN5MzE2aXdwZ2sxbW81cjYxNmg2eDJodmxweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xhAO0y3RbT7k3xb7ZZ/giphy.gif" width="30" alt="Bunny" />
+</div>
 
 ## About Me 💕
 ```yaml
