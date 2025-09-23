@@ -52,15 +52,15 @@ hobbies:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FFB6C1&text_color=FFC0CB&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mai-Annie&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FFB6C1&text_color=FFC0CB&bg_color=0D1117" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&ring=FF69B4&fire=FFB6C1&currStreakLabel=FFC0CB" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mai-Annie&theme=radical&ring=FF69B4&fire=FFB6C1&currStreakLabel=FFC0CB" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&title_color=FF69B4&text_color=FFC0CB&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mai-Annie&layout=compact&theme=radical&title_color=FF69B4&text_color=FFC0CB&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ## LeetCode Stats ✨
