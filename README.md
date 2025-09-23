@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 
+##LeetCode Stats ✨
+https://leetcard.jacoblin.cool/Annielabrocoli?theme=forest&font=Crushed
+
 
 <!--
 **Mai-Annie/Mai-Annie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
