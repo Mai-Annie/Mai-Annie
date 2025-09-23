@@ -20,9 +20,8 @@ hobbies:
   - Gym, watching rom-coms, and creating art on my nails 💅
   - Creating beautiful things ✨
 ```
-
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Girl"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VmbTU5NXBjaDV1MHUwbXhnajU4dXZueDg5Z3hkYXhkOXhycHVyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width="400" alt="Coding Girl"/>
 </div>
 
 ## 💫 Skills & Technologies
